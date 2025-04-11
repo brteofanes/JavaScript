@@ -1,0 +1,53 @@
+#título{
+
+    text-align: center;
+
+}
+
+
+#contagem{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 97, 10);
+}
+
+
+#blocobotões{
+
+    text-align: center;
+
+}
+
+
+.botão{
+
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+    transition: background-color 0.25s;        /*determina o tempo de transição*/
+
+}
+.botão:hover{                                       /*coloca a transição*/
+    background-color: rgb(24, 131, 131);
+    color: antiquewhite;
+}
+.centrolimpa{
+    background-color: aqua;
+    padding: 20px;
+    margin: 50px;                                  /*Separa os botões entre si*/
+    border-radius: 10px;
+    transition: background-color 0.25s;
+}
+.centrolimpa:hover{
+
+    background-color: rgb(24, 131, 131);
+    color: antiquewhite;
+
+}
+
+/* Por que um botão foi personalizado individualmente?
+        Simplesmente por questões visuais, criando uma margem no botão do meio, fazendo-os ficarem afastados entre sí, contudo fica mais trabalhoso porque qualquer animação para ambos os botões, deve ser duplicado para o botão do meio.
+    Note que a única mudança que fizemos no botão do meio foi só colocar o parâmetro "margin: 50px;" para que a margem cause afastamento do botão do meio para ambos os botões.
+        Sem o parâmetro "transition: background-color 0.24s;" o efeito :hover{} tende a não funcionar, é uma lógica inicial que o CSS precisa para realizar a transição, perceba que ao não especificar o tempo do color que é a troca da cor da letra, ele aplica o mesmo tempo de transição do background-color 0.24s; que é a cor do efeito de fundo dos botões.

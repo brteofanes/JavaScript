@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java script2</title>
+    <!--Houve uma baita perda de tempo para descobrir que se não souber a ordem de procedêcia do código que chama o arquivo JS, o código pode não funcionar ou dá erro nesse caso específico o erro estava em chamar o js dentro da tag head, é como está no index inícial, só que nesse aqui o arquivo JS deve ser chamado depois do campo de preenchimento, ou seja, dentro da tag body.-->
+</head>
+<body>
+
+    <h1>Bem vindo</h1>
+
+    <label>Seu nome</label>                   <!--Nome ao lado do campo de entrada-->
+    <input id="meutexto"></input>             <!--Campo de preenchimento/entrada-->
+
+    <button id="botão">Aperte aqui</button>
+
+    <script src="javascript2.js"></script>      <!--Chama o arquivo JS-->
+
+    <h3>Resultado no console</h3>
+</body>
+</html>
