@@ -15,7 +15,7 @@
   </li>
   <li>
     <strong>index3.html + javascript3.js</strong>
-    <p>Objetivo: trocar o que está no título do h1 para o que for colocado no input, e a trocar, ao aperta o botão.</p>
+    <p>Objetivo: trocar o que está no título do h1 para o que for colocado no input, e a troca, ao aperta o botão.</p>
   </li>
   <li>
     <strong>index4.html + javascript4.js</strong>
