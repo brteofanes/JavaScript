@@ -30,7 +30,7 @@
     <p>Vamos trabalhar com a constante Pi, a lógica do programa é fornecer a circunfêrencia com base no raio informado pelo usuário do programa.</p>
   </li>
   <li>
-    <strong>index7.html + javascript7.js + style7.css</strong>
+    <strong>index7.html + javascript7.js + style7.css + sonoridade7.mp3</strong>
     <p>Contador com botões, crescente, decrescente e limpar. Será abordado funções de objeto, onde o botão executa uma determinada ação, totalmente front-end não havendo necessidade de consultar o DevTools.</p>
   </li>
   <li>
