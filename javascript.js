@@ -8,7 +8,15 @@
 //idade = idade **2
 //idade = idade -5
 //idade = idade /4
-//idade = idade += 1
+
+//Operações abreviadas abaixo.
+
+//idade += 1
+//idade *= 2
+//idade %= 3
+//idade **=2
+//idade -=5
+//idade /=4
 //console.log(idade);
 
 let nome;                                                   //Recebe uma variável.
