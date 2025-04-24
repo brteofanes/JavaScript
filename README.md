@@ -41,6 +41,10 @@
     <strong>index9.html + javascript9.js</strong>
     <p>Por trás dos bastidores da criação de um programa usando a lógica fundamental que é começar pelos erros que a sua ideia do programa possa ter, esse projeto é idêntico ao projeto index8.html + javascript8.js com a diferença que está comentado com mais detalhes.</p>
   </li>
+  <li>
+    <strong>index10.html + javascript10.js</strong>
+    <p>Bibliotecas de clásses númericas com o parâmetro Math, resultado no DevTools do navegador.</p>
+  </li>
 </ol>
 
  
