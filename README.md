@@ -45,6 +45,10 @@
     <strong>index10.html + javascript10.js</strong>
     <p>Bibliotecas de clásses númericas com o parâmetro Math, resultado no DevTools do navegador.</p>
   </li>
+  <li>
+    <strong>index11.html + javascript11.js</strong>
+    <p>Gerador de número aleatório.</p>
+  </li>
 </ol>
 
  
