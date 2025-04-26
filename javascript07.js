@@ -19,20 +19,20 @@ function tocarSom(arquivo) {
 decrescente.onclick = function() {
     conta--;
     h1.textContent = conta;
-    tocarSom('sonoridade7.mp3');
+    tocarSom('sonoridade07.mp3');
     //somClique.play();  toca som
 }
 
 crescente.onclick = function() {
     conta++;
     h1.textContent = conta;
-    tocarSom('sonoridade7.mp3');
+    tocarSom('sonoridade07.mp3');
 }
 
 limpaacontagem.onclick = function() {
     conta = 0;
     h1.textContent = conta;
-    tocarSom('sonoridade7.mp3');
+    tocarSom('sonoridade07.mp3');
 }
 
 
